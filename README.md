@@ -54,7 +54,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HoangNghiemLy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-![Visitors](https://komarev.com/ghpvc/?username=HoangNghiemLy&style=for-the-badge&color=blueviolet)
+
 
 
 
