@@ -57,8 +57,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=HoangNghiemLy&style=for-the-badge&color=blueviolet)
 
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 ---
 
