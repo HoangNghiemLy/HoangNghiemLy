@@ -6,11 +6,6 @@
 
 
 
-
-
-
-
-
 ## 👨‍💻 About Me
 - 🌱 Currently learning **React, Next.js, TailwindCSS, Node.js**
 - 📫 Reach me at **lyhoangnghiem3432@gmail.com**
