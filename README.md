@@ -58,12 +58,8 @@
 
 
 
-
 ---
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=HoangNghiemLy&label=Profile%20Views&color=0&icon=2&pretty=true" />
-</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
