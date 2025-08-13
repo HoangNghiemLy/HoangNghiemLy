@@ -1,4 +1,13 @@
 
+<!-- Title -->
+<h1 align="center">Hi 👋, I'm Ly Hoang Nghiem</h1>
+<h3 align="center">💻 Frontend Developer | 🌱 Lifelong Learner | 🎯 Goal-Oriented</h3>
+
+## 👨‍💻 About Me
+- 🌱 Currently learning **React, Next.js, TailwindCSS, Node.js**
+- 📫 Reach me at **lyhoangnghiem3432@gmail.com**
+- ⚡ Fun fact: *I can code for hours without realizing it's already midnight!*
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Nbinnz/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hnghiem) 
 
@@ -25,6 +34,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HoangNghiemLy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNghiemLy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📈 Activity Graph
+[![HoangNghiemLy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangNghiemLy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HoangNghiemLy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -33,6 +45,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HoangNghiemLy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+![Visitors](https://komarev.com/ghpvc/?username=HoangNghiemLy&style=for-the-badge&color=blueviolet)
+
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
