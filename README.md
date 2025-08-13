@@ -1,8 +1,9 @@
 
 <!-- Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00C0A0&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B;Welcome+to+my+GitHub!;I'm+Ly+Hoang+Nghiem" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=9999999&color=00C0A0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;Welcome+to+my+GitHub!;I'm+Ly+Hoang+Nghiem" />
 </h1>
+
 
 
 ## 👨‍💻 About Me
