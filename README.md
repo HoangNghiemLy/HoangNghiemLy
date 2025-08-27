@@ -44,7 +44,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=HoangNghiemLy&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+![HoangNghiemLy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangNghiemLy&show_icons=true&theme=gradient)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
