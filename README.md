@@ -7,12 +7,12 @@
 
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **React, Next.js, TailwindCSS, Node.js**
+- 🌱 Currently learning **React.js, Next.js, TailwindCSS, Node.js, TypeScript**
 - 📫 Reach me at **lyhoangnghiem3432@gmail.com**
-- ⚡ Fun fact: *I can code for hours without realizing it's already midnight!*
+
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Nbinnz/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hnghiem) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Nbinnz/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hnghiem) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:lyhoangnghiem3432@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
@@ -41,7 +41,8 @@
 [![HoangNghiemLy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangNghiemLy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HoangNghiemLy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HoangNghiemLy&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=8)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
