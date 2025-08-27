@@ -33,9 +33,9 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HoangNghiemLy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HoangNghiemLy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNghiemLy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![HoangNghiemLy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangNghiemLy&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![HoangNghiemLy's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=HoangNghiemLy&theme=gruvbox&hide_border=false)<br/>
+![HoangNghiemLy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNghiemLy&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 Activity Graph
 [![HoangNghiemLy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangNghiemLy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -44,7 +44,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=HoangNghiemLy&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![HoangNghiemLy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangNghiemLy&show_icons=true&theme=gradient)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
