@@ -41,7 +41,7 @@
 [![HoangNghiemLy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangNghiemLy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HoangNghiemLy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HoangNghiemLy&theme=gruvbox)
 
 
 
