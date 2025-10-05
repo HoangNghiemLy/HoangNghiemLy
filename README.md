@@ -7,7 +7,7 @@
 
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **React.js, Next.js, TailwindCSS, Node.js, TypeScript**
+- 🌱 Currently learning **Reactjs, Nodejs, TailwindCSS, Node.js, TypeScript,**
 - 📫 Reach me at **lyhoangnghiem3432@gmail.com**
 
 
